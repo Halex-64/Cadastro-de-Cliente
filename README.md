@@ -1,27 +1,5 @@
 # Cadastro-de-Cliente-V0.2
 
-Técnico Em Desenvolvimento de Sistemas
-Faculdade Senai Osasco - JAN 2023 - Prof. Kaian & Thier
-Detalhes do material
-Git e Github
-Thier Alarcon
-•
-10 de mar. Editado às Ontem
-Olá alunos,
-
-Este é o material de apoio para as aulas de Github. Espero que vocês encontrem aqui informações valiosas para aprimorar seus conhecimentos e habilidades em relação a essa importante ferramenta de colaboração e compartilhamento de projetos.
-
-Para começar, vamos revisar o que é o Github e por que ele é importante. O Github é uma plataforma de hospedagem de código-fonte e gerenciamento de projetos que permite que várias pessoas trabalhem juntas em um mesmo projeto de maneira colaborativa. Com o Github, é possível criar repositórios (espaços para armazenar códigos), fazer upload de arquivos, realizar controle de versões, gerenciar tarefas, revisar códigos e muito mais.
-
-Espero que esse material de apoio ajudem vocês a aprimorarem suas habilidades em relação ao Github e a trabalharem com mais eficiência em seus projetos. Boa sorte!
-
-Git e Github.pptx
-PowerPoint
-
-README.md
-Texto
-Comentários da turma
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
