@@ -1,4 +1,4 @@
-# Cadastro-de-Cliente-V0.2
+# Cadastro-de-Cliente
 
 # Getting Started with Create React App
 
